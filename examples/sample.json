@@ -1,0 +1,34 @@
+{
+  "person": {
+    "name": "John Doe",
+    "age": 30,
+    "email": "john.doe@example.com",
+    "isActive": true,
+    "birthDate": "1993-05-15",
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "zipCode": "12345"
+    },
+    "hobbies": ["reading", "hiking", "photography"],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "Expert",
+        "years": 5
+      },
+      {
+        "name": "JavaScript",
+        "level": "Intermediate",
+        "years": 3
+      }
+    ]
+  },
+  "company": {
+    "name": "Tech Corp",
+    "founded": "2010-01-01",
+    "employees": 150,
+    "departments": ["Engineering", "Sales", "Marketing"]
+  }
+} 

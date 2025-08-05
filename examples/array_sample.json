@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "First Item",
+    "description": "This is the first item in the array",
+    "tags": ["tag1", "tag2"],
+    "metadata": {
+      "created": "2023-01-01T10:00:00",
+      "author": "Alice"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Second Item",
+    "description": "This is the second item in the array",
+    "tags": ["tag2", "tag3"],
+    "metadata": {
+      "created": "2023-01-02T11:00:00",
+      "author": "Bob"
+    }
+  }
+] 
